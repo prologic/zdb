@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/prologic/bitcask"
+	"git.mills.io/prologic/bitcask"
 	// "github.com/google/uuid"
 )
 
